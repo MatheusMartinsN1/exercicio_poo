@@ -37,6 +37,6 @@ const dev1 = new FrontEnd("Matheus", 2, ["HTML", "CSS", "JavaScript"]);
 const dev2 = new BackEnd("Jenifer", 6, "PHP");
 const dev3 = new BackEnd("Carlos", 4, "Node.js")
 
-dev1.apresentar()
-dev2.apresentar()
-dev3.apresentar()
+dev1.apresentar();
+dev2.apresentar();
+dev3.apresentar();
